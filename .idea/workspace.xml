@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc8f479f-268d-4da6-ab31-edec1c2f6749" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Admin/routes.php" afterPath="$PROJECT_DIR$/app/Admin/routes.php" />
-    </list>
+    <list default="true" id="fc8f479f-268d-4da6-ab31-edec1c2f6749" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,33 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/user_addresses/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-              <folding>
-                <element signature="e#1563#1592#0#HTML" expanded="true" />
-                <marker date="1569565542648" expanded="true" signature="9:22" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="33:50" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="62:71" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="284:316" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="875:897" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="970:994" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="1040:1064" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="1110:1125" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="1171:1196" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="1288:1352" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="1478:1545" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="1636:1650" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="1695:1719" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="1937:1951" ph="..." />
-                <marker date="1569565542648" expanded="true" signature="2270:2286" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".env" pinned="true" current-in-tab="false">
         <entry file="remoteDeploymentFS://&lt;29d999e0-dd23-4de7-a740-bc9c2549c5a2&gt;/.env">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/config/admin.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="79" column="6" lean-forward="true" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+              <caret line="79" column="6" lean-forward="false" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -97,52 +68,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Admin/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019_09_27_075310_create_products_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_27_075310_create_products_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019_09_27_075916_create_product_skus_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_27_075916_create_product_skus_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductSku.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Models/ProductSku.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserAddressPolicy.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Policies/UserAddressPolicy.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthServiceProvider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-              <folding>
-                <marker date="1569565385136" expanded="true" signature="251:265" ph="..." />
-                <marker date="1569565385136" expanded="true" signature="288:311" ph="..." />
-                <marker date="1569565385136" expanded="true" signature="367:387" ph="..." />
-                <marker date="1569565385136" expanded="true" signature="447:462" ph="..." />
-                <marker date="1569565385136" expanded="true" signature="485:502" ph="..." />
-                <marker date="1569565385136" expanded="true" signature="547:556" ph="..." />
-                <marker date="1569565385136" expanded="true" signature="582:599" ph="..." />
-                <marker date="1569565385136" expanded="true" signature="638:656" ph="..." />
-                <marker date="1569565385136" expanded="true" signature="677:693" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -208,6 +179,10 @@
         <option value="$PROJECT_DIR$/config/admin.php" />
         <option value="$PROJECT_DIR$/app/Admin/Controllers/UsersController.php" />
         <option value="$PROJECT_DIR$/app/Admin/routes.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_09_27_075310_create_products_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_09_27_075916_create_product_skus_table.php" />
+        <option value="$PROJECT_DIR$/app/Models/Product.php" />
+        <option value="$PROJECT_DIR$/app/Models/ProductSku.php" />
       </list>
     </option>
   </component>
@@ -315,8 +290,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="593" />
-    <option name="y" value="83" />
+    <option name="x" value="650" />
+    <option name="y" value="60" />
     <option name="width" value="1680" />
     <option name="height" value="967" />
   </component>
@@ -512,15 +487,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569320498909</updated>
-      <workItem from="1569320500648" duration="21800000" />
+      <workItem from="1569320500648" duration="23586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21800000" />
+    <option name="totallyTimeSpent" value="23586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="593" y="83" width="1680" height="967" extended-state="0" />
+    <frame x="650" y="60" width="1680" height="967" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -997,7 +972,7 @@
     <entry file="file://$PROJECT_DIR$/config/admin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="79" column="6" lean-forward="true" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+          <caret line="79" column="6" lean-forward="false" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -1013,6 +988,38 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Admin/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_27_075310_create_products_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_27_075916_create_product_skus_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/ProductSku.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
