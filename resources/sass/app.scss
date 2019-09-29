@@ -378,6 +378,12 @@ body {
     display: flex;
     flex-direction: row;
   }
+
+  .payment-buttons {
+    margin-top: 10px;
+    padding-right: 10px;
+  }
+
   .order-info {
     width: 50%;
     .line {
